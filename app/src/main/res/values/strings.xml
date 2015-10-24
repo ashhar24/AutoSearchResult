@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AutoSearchResult</string>
+    <string name="action_search">Search</string>
+    <string name="menu_search">Search</string>
+    <string name="search_hint">Enter your query bitch!!!</string>
+</resources>
